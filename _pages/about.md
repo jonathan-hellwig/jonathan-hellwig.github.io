@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Learning is fun!
+subtitle: 
 
 profile:
   align: left
