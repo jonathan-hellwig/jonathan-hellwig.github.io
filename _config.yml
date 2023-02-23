@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Jonathan 
 middle_name:
 last_name: Hellwig
-email: you@example.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A portfolio website.
 keywords: portfolio, jonathan-hellwig, robotics, machine-learning  # add your own keywords or leave empty
@@ -37,7 +37,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
