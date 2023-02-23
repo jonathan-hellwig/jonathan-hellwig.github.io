@@ -15,12 +15,14 @@
       institution: University of Hamburg, Hamburg, Germany
       year: 2020 - 2023
       description:
+        - "Thesis topic: Relations between variants of stochatic gradient descent and stochastic differential equations"
         - "Average grade: 1.3"
     - title: Computational Life Science (B.Sc.)
       institution: Universität zu Lübeck, Lübeck, Germany
       year: 2016 - 2019
       description:
         - Award for best graduate 2019
+        - "Thesis topic: Multilevel Monte Carlo methods for stochastic differential equations"
         - "Average grade: 1.3"
 
 - title: Experience
