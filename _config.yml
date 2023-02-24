@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 keywords: portfolio, jonathan-hellwig, robotics, machine-learning  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/student.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://jonathan-hellwig.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
