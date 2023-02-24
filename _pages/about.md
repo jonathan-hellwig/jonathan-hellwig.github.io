@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: robocup_profile.jpg
+  image: gore_cut.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
