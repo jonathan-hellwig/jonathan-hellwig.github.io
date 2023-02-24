@@ -15,7 +15,7 @@
       institution: University of Hamburg, Hamburg, Germany
       year: Oct 2020 - Feb 2023
       description:
-        - "Thesis topic: Relations between variants of stochatic gradient descent and stochastic differential equations"
+        - "Thesis topic: Relations between variants of stochastic gradient descent and stochastic differential equations"
         - "Average grade: 1.3"
     - title: Computational Life Science (B.Sc.)
       institution: Universität zu Lübeck, Lübeck, Germany
@@ -37,7 +37,7 @@
         - State estimation of robot and ball position
         - Training of a new object detection convolutional neural network 
     
-    - title: Research assistent for Prof. Dr. Jörn Behrens, Shallow water wave simulation
+    - title: Research assistant for Prof. Dr. Jörn Behrens, Shallow water wave simulation
       institution: University of Hamburg, Hamburg, Germany.
       year: Jan 2022 - Jun 2022 # 01.01.2022 - 30.06.2022
       description:
@@ -53,7 +53,7 @@
       institution: SIGNAL IDUNA, Hamburg, Germany
       year: Feb 2021 # Spring 2021
       description:
-        - Predicition of future payments
+        - Prediction of future payments
         - Implementation of new estimation algorithms in R
 
     - title: Group tutor, Optimization
