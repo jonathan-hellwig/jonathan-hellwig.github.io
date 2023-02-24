@@ -13,13 +13,13 @@
   contents:
     - title: Industrial Mathematics (M.Sc.)
       institution: University of Hamburg, Hamburg, Germany
-      year: 2020 - 2023
+      year: Oct 2020 - Feb 2023
       description:
         - "Thesis topic: Relations between variants of stochatic gradient descent and stochastic differential equations"
         - "Average grade: 1.3"
     - title: Computational Life Science (B.Sc.)
       institution: Universität zu Lübeck, Lübeck, Germany
-      year: 2016 - 2019
+      year: Oct 2016 - Sep 2019
       description:
         - Award for best graduate 2019
         - "Thesis topic: Multilevel Monte Carlo methods for stochastic differential equations"
@@ -39,30 +39,30 @@
     
     - title: Research assistent for Prof. Dr. Jörn Behrens, Shallow water wave simulation
       institution: University of Hamburg, Hamburg, Germany.
-      year: 2022 # 01.01.2022 - 30.06.2022
+      year: Jan 2022 - Jun 2022 # 01.01.2022 - 30.06.2022
       description:
         - implementation of novel test cases
         - restructuring of code base
 
     - title: Group tutor, Numerical methods in geosciences
       institution: University of Hamburg, Hamburg, Germany
-      year: 2022 # 04.04.2022 - 30.09.2022
+      year: Apr 2022 - Sep 2022 # 04.04.2022 - 30.09.2022
       description:
 
     - title: Internship at the actuarial department at SIGNAL IDUNA
       institution: SIGNAL IDUNA, Hamburg, Germany
-      year: 2021 # Spring 2021
+      year: Feb 2021 # Spring 2021
       description:
         - Predicition of future payments
         - Implementation of new estimation algorithms in R
 
     - title: Group tutor, Optimization
       institution: Universität zu Lübeck, Lübeck, Germany
-      year: 2019
+      year: Apr 2019 - Oct 2019
 
     - title: Group tutor, Linear algebra
       institution: Universität zu Lübeck, Lübeck, Germany
-      year: 2017 - 2019
+      year: Oct 2017 - Sep 2019
 
 - title: Academic Interests
   type: nested_list
