@@ -30,7 +30,7 @@
   contents:
     - title: Member of the RoboCup SPL team HULKs
       institution: HULKs e.V., Hamburg, Germany
-      year: 2021 - Now
+      year: 2021 - Present
       description:
         - Participation in the RoboCup 2021, Thailand
         - Development of a robust line matching algorithm
@@ -44,7 +44,7 @@
         - implementation of novel test cases
         - restructuring of code base
 
-    - title: Group tutor, Numerical methods in geosciences
+    - title: Group tutor for Numerical methods in geosciences
       institution: University of Hamburg, Hamburg, Germany
       year: Apr 2022 - Sep 2022 # 04.04.2022 - 30.09.2022
       description:
@@ -56,11 +56,11 @@
         - Prediction of future payments
         - Implementation of new estimation algorithms in R
 
-    - title: Group tutor, Optimization
+    - title: Group tutor for Optimization
       institution: University of Lübeck, Lübeck, Germany
       year: Apr 2019 - Oct 2019
 
-    - title: Group tutor, Linear algebra
+    - title: Group tutor for Linear algebra
       institution: University of Lübeck, Lübeck, Germany
       year: Oct 2017 - Sep 2019
 
