@@ -80,7 +80,7 @@ $$
 This equation is a special case of the well-known gradient flow equation. For stochastic gradient descent there exists a stochastic generalization in form of a stochastic differential equation. 
 
 If you are interested in a more complete and rigorous introduction to this topic, you can find my thesis, source code and talk slides [at my GitHub page](https://github.com/jonathan-hellwig/master_thesis).
-
+<!-- 
 # Object detection in the RoboCup SPL
 
 <div class="row">
@@ -88,10 +88,10 @@ If you are interested in a more complete and rigorous introduction to this topic
         {% include figure.html path="assets/img/robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<!-- In the RoboCup SPL league, ten small humanoid robots compete in teams of five to score goals in a game of football. The robots play completely autonomously and once the game has started the robots are on their own.  -->
+In the RoboCup SPL league, ten small humanoid robots compete in teams of five to score goals in a game of football. The robots play completely autonomously and once the game has started the robots are on their own. As a result, the robots need to detect line markings, other robots, the ball and the goal posts in order to plan their next move. Our current implementation allows us to locate the ball with high accuracy. However, the robots do not have the ability to detect other robots. Building on the work of [Liu et al.](https://arxiv.org/abs/1512.02325) I set out to train a Single Shot Detection network that detects both balls and robots. Following the approach by the current world champion I scale the 
 
 # Localization in the RoboCup SPL
 
 # Reinforcement learning of robotic motion
 
-# Symbolic regression
+# Symbolic regression -->
