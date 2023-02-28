@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - jonathan-hellwig/ml
+  - jonathan-hellwig/master_thesis
   - jonathan-hellwig/symbolic_regression
   - jonathan-hellwig/scientific_working
   - "jonathan-hellwig/recipe-recommendation-engine"
