@@ -13,7 +13,7 @@
   contents:
     - title: Industrial Mathematics (M.Sc.)
       institution: University of Hamburg, Hamburg, Germany
-      year: Oct 2020 - Feb 2023
+      year: Oct 2020 - Mar 2023
       description:
         - "Thesis topic: Relations between variants of stochastic gradient descent and stochastic differential equations"
         - "Advisor: Dr. Jens-Peter Zemke"
@@ -30,48 +30,83 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Member of the RoboCup SPL team HULKs
-      institution: HULKs e.V., Hamburg, Germany
-      year: 2021 - Present
+    - title: Robotics Software Developer
+      institution: RoboCup SPL team HULKs e.V., Hamburg, Germany
+      year: Jun 2021 - Present
       description:
-        - Participation in the RoboCup 2021, Thailand
-        - Development of a robust line matching algorithm
-        - State estimation of robot and ball position
-        - Training of a new object detection convolutional neural network 
+      - Developed and implemented localization, object detection, and sensor fusion algorithms for a RoboCup Standard Platform League team
+      - Participated in GORE 2022, RoboCup 2022, and GORE 2023
+      - Utilized agile software development methodologies with Rust programming language
+      - Collaborated with team members and managed project workflow using GitHub
     
-    - title: Research assistant for Prof. Dr. Jörn Behrens, Shallow water wave simulation
-      institution: University of Hamburg, Hamburg, Germany.
-      year: Jan 2022 - Jun 2022 # 01.01.2022 - 30.06.2022
-      description:
-        - implementation of novel test cases
-        - restructuring of code base
+    
 
     - title: Group tutor for Numerical methods in geosciences
       institution: University of Hamburg, Hamburg, Germany
       year: Apr 2022 - Sep 2022 # 04.04.2022 - 30.09.2022
-      description:
+      description: Conducted tutorial sessions for a group of 20 students on numerical methods in geosciences using Python
 
-    - title: Internship at the actuarial department at SIGNAL IDUNA
+    - title: Research assistant
+      institution: University of Hamburg, Hamburg, Germany.
+      year: Jan 2022 - Jun 2022 # 01.01.2022 - 30.06.2022
+      description:
+      - Conducted research on shallow water wave simulation in cooperation with Prof. Dr. Jörn Behrens
+      - Refactored existing code base to improve readability, maintainability, and performance
+      - Implemented novel test cases to verify the correctness of the simulation
+
+    - title: Internship at actuarial department
       institution: SIGNAL IDUNA, Hamburg, Germany
       year: Feb 2021 # Spring 2021
       description:
-        - Prediction of future payments
-        - Implementation of new estimation algorithms in R
+      - Assisted with estimation of loss reserves for insurance policies
+      - Implemented state-of-the-art models in R to improve accuracy of loss estimation
 
     - title: Group tutor for Optimization
       institution: University of Lübeck, Lübeck, Germany
       year: Apr 2019 - Oct 2019
+      description:
+        - Assisted in teaching optimization course to a group of 20 students
+        - Prepared and led tutorial sessions and graded assignments
 
     - title: Group tutor for Linear algebra
       institution: University of Lübeck, Lübeck, Germany
       year: Oct 2017 - Sep 2019
+      description:
+      - Assisted in teaching linear algebra course to a group of 30 students
+      - Conducted exercises, supervised exams and provided feedback to students
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Stochastic optimization
-    - title: Robotics
-    - title: Computer vision
+    - title: Programming languages
+      items:
+      - Python
+      - Rust
+      - R
+    - title: Tools
+      items:
+      - PyTorch
+      - NumPy
+      - SciPy
+      - Matplotlib
+      - Scikit-learn
+      - LaTeX
+      - Git
+
+- title: Volunteer work
+  type: time_table
+  contents:
+  - title: Co-organizer of Machine learning workshop
+    institution: Technical University of Hamburg
+    description:
+      - "Co-organized and conducted a workshop on machine learning for highschool students"
+      - "Topics: Support vector machines and neural networks"
+      - "Programming language: Python"
+  - title: Organizing Committee Member for GORE 2023
+    institution: RoboCup SPL team HULKs e.V.
+    description:
+    - "Coordinated with the PR teams of DESY, TUHH, and UHH to advertise GORE 2023, an international competition for soccer-playing robots"
+    - "Organized a photoshoot to promote the event"
 
 - title: Other Interests
   type: list
