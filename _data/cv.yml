@@ -8,6 +8,31 @@
     - name: Languages
       value: German, English, Japanese
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Machine learning
+      items:
+      - Deep learning with PyTorch, image classification, object detection and reinforcement learning
+    - title: Robotics and Control
+      items:
+      - Robot kinematics and dynamics, sensor fusion
+    - title: Optimization and Numerical Methods
+      items:
+      - Iterative closest line algorithms and Numerical methods for differential equations
+    - title: Soft skills
+      items:
+      - Excellent analytical, problem-solving, and communication skills, with a passion for learning new technologies and working collaboratively
+- title: Technical
+  type: nested_list
+  contents:
+    - title: Programming languages
+      items:
+      - Python, Rust, R
+    - title: Tools
+      items:
+      - PyTorch, NumPy, SciPy, Matplotlib, Scikit-learn, LaTeX, Git
+
 - title: Education
   type: time_table
   contents:
@@ -38,8 +63,6 @@
       - Participated in GORE 2022, RoboCup 2022, and GORE 2023
       - Utilized agile software development methodologies with Rust programming language
       - Collaborated with team members and managed project workflow using GitHub
-    
-    
 
     - title: Group tutor for Numerical methods in geosciences
       institution: University of Hamburg, Hamburg, Germany
@@ -75,23 +98,6 @@
       - Assisted in teaching linear algebra course to a group of 30 students
       - Conducted exercises, supervised exams and provided feedback to students
 
-- title: Technical Skills
-  type: nested_list
-  contents:
-    - title: Programming languages
-      items:
-      - Python
-      - Rust
-      - R
-    - title: Tools
-      items:
-      - PyTorch
-      - NumPy
-      - SciPy
-      - Matplotlib
-      - Scikit-learn
-      - LaTeX
-      - Git
 
 - title: Volunteer work
   type: time_table
