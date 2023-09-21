@@ -36,6 +36,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. student
+      institution: Karlsruhe Institute of Technology, Karlsruhe, Germany
+      year: Aug 2023 - Present
+      description:
+        - "Formal verification of autonomous dynamical systems"
     - title: Industrial Mathematics (M.Sc.)
       institution: University of Hamburg, Hamburg, Germany
       year: Oct 2020 - Mar 2023

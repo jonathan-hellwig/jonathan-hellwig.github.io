@@ -88,11 +88,11 @@ If you are interested in a more complete and rigorous introduction to this topic
         {% include figure.html path="assets/img/robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-In the RoboCup SPL league, ten small humanoid robots compete in teams of five to score goals in a game of football. The robots play completely autonomously and once the game has started the robots are on their own. As a result, the robots need to detect field lines, other robots, the ball and the goal posts in order to plan their next move. The current implementation of the HULKs team is capable of locating balls in the camera image with high accuracy. However, the ability to detect robots error prone and sensitive to light conditions. To compete in a variety of different environments I began working on an approach that jointly detects robots and balls.
+In the RoboCup SPL league, ten small humanoid robots compete in teams of five to score goals in a game of football. The robots play completely autonomously and once the game has started the robots are on their own. As a result, the robots need to detect field lines, other robots, the ball and the goal posts in order to plan their next move. The current implementation of the HULKs team is capable of locating balls in the camera image with high accuracy. However, the ability to detect robots is error prone and sensitive to light conditions. To compete in a variety of different environments I began working on an approach that jointly detects robots and balls.
 
 I decided to build on the work of [Liu et al.](https://arxiv.org/abs/1512.02325) to train a Single Shot Detection network that outputs ball and robot detections with a single network pass. The idea of this network is to use a grid of fixed anchor boxes with different aspect ratios layered on top of the camera image. For each of the anchor boxes, the network predicts the relative bounding box off-set and a probability distribution over a class of objects.
 
-Following the approach by the current world champion team [B-Human](https://www.b-human.de/), I scale the the 480 x 640 images to 80 x 100 grayscale images. Then, I map the bounding boxes to a 8 x 10 fixed grid of anchor boxes size using the [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index). The raw image and the transformed image are shown below.
+Following the approach by the current world champion team [B-Human](https://www.b-human.de/), I scale the 480 x 640 images to 80 x 100 grayscale images. Then, I map the bounding boxes to a 8 x 10 fixed grid of anchor boxes size using the [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index). The raw image and the transformed image are shown below.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -112,7 +112,7 @@ Following the approach by the current world champion team [B-Human](https://www.
     Grayscale 80 x 100 image and its horizontal flip with encoded bounding boxes.
 </div>
 The training loss is given by a weighted sum of the cross-entropy loss and the smooth L1 loss. 
-The full source code for this project is available at my [Github page](https://github.com/jonathan-hellwig/ml)
+The full source code for this project is available at my [Github page](https://github.com/jonathan-hellwig/robot_detection)
 
 <!-- # Localization in the RoboCup SPL -->
 
