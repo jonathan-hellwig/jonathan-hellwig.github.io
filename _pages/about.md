@@ -11,11 +11,11 @@ profile:
   address: 
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a Ph.D. researcher at the Karlsruhe Institute of Technology (KIT) in Germany, affiliated with the **"Logic of Autonomous Dynamical Systems"** research group. My primary research area centers around formal verification techniques for autonomous systems, with a specific interest in their application to robotics.
+I am a Ph.D. researcher at the Karlsruhe Institute of Technology (KIT) in Germany, affiliated with the [Logic of Autonomous Dynamical Systems](https://logic.kastel.kit.edu/) research group. My research focuses on **formal verification** of autonomous and cyber-physical systems, developing proof calculi **differential-algebraic system** and **proof-producing pipelines** that turn reachability results (such as zonotopes) into formal safety certificates.
 
-Before starting my Ph.D. at KIT, I earned a degree in Industrial Mathematics. During my academic journey, I developed a deep interest in robotics and machine learning. Notably, I was a member of the RoboCup SPL team HULKs e.V., where I focused on key aspects such as localization, sensor fusion, and object detection, all aimed at enhancing game state representation. This experience also allowed me to collaborate effectively within an interdisciplinary team, primarily comprising Computer Science students.
+Before starting my Ph.D. at KIT, I earned a degree in Industrial Mathematics. During my studies, I developed a strong interest in robotics and machine learning as a member of the RoboCup SPL team HULKs e.V., where I worked on localization, sensor fusion, and object detection.
 
-As a Ph.D. researcher at KIT, my current research focuses on advancing **formal verification** techniques for autonomous systems, particularly in the context of **robotics**. If you would like to get in touch or explore potential **collaborations**, please feel free to reach out to me at **jonathan[dot]hellwig[at]kit[dot]edu**.
+If you would like to get in touch or explore potential **collaborations**, please feel free to reach out to me at **jonathan[dot]hellwig[at]kit[dot]edu**.

@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"IJCAR":
+  url: https://doi.org/10.1007/978-3-032-32592-1
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"iFM":
+  url: https://doi.org/10.1007/978-3-032-10794-7
+  color: "#00695c"
+
+"CADE":
+  url: https://doi.org/10.1007/978-3-031-99984-0
+  color: "#4a148c"

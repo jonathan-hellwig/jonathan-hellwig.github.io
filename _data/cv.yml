@@ -4,34 +4,9 @@
     - name: Full Name
       value: Jonathan Hellwig
     - name: Date of Birth
-      value: 23th March 1997
+      value: 23rd March 1997
     - name: Languages
       value: German, English, Japanese
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Machine learning
-      items:
-      - Deep learning with PyTorch, image classification, object detection and reinforcement learning
-    - title: Robotics and Control
-      items:
-      - Robot kinematics and dynamics, sensor fusion
-    - title: Optimization and Numerical Methods
-      items:
-      - Iterative closest line algorithms and Numerical methods for differential equations
-    - title: Soft skills
-      items:
-      - Excellent analytical, problem-solving, and communication skills, with a passion for learning new technologies and working collaboratively
-- title: Technical
-  type: nested_list
-  contents:
-    - title: Programming languages
-      items:
-      - Python, Rust, R
-    - title: Tools
-      items:
-      - PyTorch, NumPy, SciPy, Matplotlib, Scikit-learn, LaTeX, Git
 
 - title: Education
   type: time_table
@@ -60,9 +35,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Ph.D. Researcher
+      institution: Karlsruhe Institute of Technology (KIT), Logic of Autonomous Dynamical Systems, Karlsruhe, Germany
+      year: Aug 2023 - Present
+      description:
+        - "Formal verification of cyber-physical and autonomous dynamical systems"
+        - "Differential-algebraic dynamic logic and deductive refinement calculi for differential-algebraic programs"
+        - "Proof-producing pipelines turning reachability analysis (zonotopes) into formal safety certificates for control envelopes"
+
     - title: Robotics Software Developer
       institution: RoboCup SPL team HULKs e.V., Hamburg, Germany
-      year: Jun 2021 - Present
+      year: Jun 2021 - Aug 2023
       description:
       - Developed and implemented localization, object detection, and sensor fusion algorithms for a RoboCup Standard Platform League team
       - Participated in GORE 2022, RoboCup 2022, and GORE 2023
@@ -107,19 +90,21 @@
 - title: Volunteer work
   type: time_table
   contents:
+  - title: Volunteer Tutor
+    institution: Studenten für Kinder Karlsruhe e.V. (SfKa), Karlsruhe, Germany
+    year: Oct 2023 - Present
+    description:
+      - "Non-profit student organization and recognized university group at KIT providing free tutoring for socially disadvantaged children and adolescents in the Karlsruhe area"
   - title: Co-organizer of Machine learning workshop
     institution: Technical University of Hamburg
+    year: 2023
     description:
       - "Co-organized and conducted a workshop on machine learning for highschool students"
       - "Topics: Support vector machines and neural networks"
       - "Programming language: Python"
   - title: Organizing Committee Member for GORE 2023
     institution: RoboCup SPL team HULKs e.V.
+    year: 2023
     description:
     - "Coordinated with the PR teams of DESY, TUHH, and UHH to advertise GORE 2023, an international competition for soccer-playing robots"
     - "Organized a photoshoot to promote the event"
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Weight lifting, running, swimming, learning languages
