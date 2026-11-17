@@ -52,11 +52,6 @@
       - Utilized agile software development methodologies with Rust programming language
       - Collaborated with team members and managed project workflow using GitHub
 
-    - title: Group tutor for Numerical methods in geosciences
-      institution: University of Hamburg, Hamburg, Germany
-      year: Apr 2022 - Sep 2022 # 04.04.2022 - 30.09.2022
-      description: Conducted tutorial sessions for a group of 20 students on numerical methods in geosciences using Python
-
     - title: Research assistant
       institution: University of Hamburg, Hamburg, Germany.
       year: Jan 2022 - Jun 2022 # 01.01.2022 - 30.06.2022
@@ -71,6 +66,20 @@
       description:
       - Assisted with estimation of loss reserves for insurance policies
       - Implemented state-of-the-art models in R to improve accuracy of loss estimation
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant — Logical Foundations of Cyber-Physical Systems (LFCPS)
+      institution: Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany
+      year: WS 23/24, WS 24/25
+      description:
+        - "Assisted in teaching the graduate course on Logical Foundations of Cyber-Physical Systems for two winter semesters"
+
+    - title: Group tutor for Numerical methods in geosciences
+      institution: University of Hamburg, Hamburg, Germany
+      year: Apr 2022 - Sep 2022 # 04.04.2022 - 30.09.2022
+      description: Conducted tutorial sessions for a group of 20 students on numerical methods in geosciences using Python
 
     - title: Group tutor for Optimization
       institution: University of Lübeck, Lübeck, Germany
