@@ -108,3 +108,11 @@
     description:
     - "Coordinated with the PR teams of DESY, TUHH, and UHH to advertise GORE 2023, an international competition for soccer-playing robots"
     - "Organized a photoshoot to promote the event"
+
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, Rust, R
+    - name: Tools & Libraries
+      value: PyTorch, NumPy, SciPy, Matplotlib, Scikit-learn, LaTeX, Git
